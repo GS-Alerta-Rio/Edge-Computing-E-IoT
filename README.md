@@ -16,7 +16,7 @@ O sistema exibe as leituras no monitor serial e pode ser facilmente adaptado par
 
 ### Esquema Ilustrativo
 
-![Esquema do circuito]([https://imgur.com/a/nVdkPVp](https://imgur.com/gallery/projeto-medidor-do-n-vel-de-gua-nVdkPVp#DlYtLo1))
+![Esquema do circuito](https://imgur.com/gallery/projeto-medidor-do-n-vel-de-gua-nVdkPVp#DlYtLo1)
 
 - **Sensor Ultrassônico**: Pinos TRIG (3) e ECHO (2)
 - **LEDs**: Verde (7), Amarelo (8), Vermelho (9)
