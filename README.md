@@ -18,9 +18,9 @@ O sistema exibe as leituras no monitor serial e pode ser facilmente adaptado par
 
 ![Esquema do circuito](./imagens/esquema-projeto.png)
 
-- **Sensor Ultrassônico**: Pinos TRIG (3) e ECHO (2)
-- **LEDs**: Verde (7), Amarelo (8), Vermelho (9)
-- **Buzzer**: 13
+- **Sensor Ultrassônico**: TRIG pino (3) e ECHO pino (2)
+- **LEDs**: Verde pino (7), Amarelo pino (8), Vermelho pino (9)
+- **Buzzer**: Pino 13
 
 ### Instruções de Montagem
 
