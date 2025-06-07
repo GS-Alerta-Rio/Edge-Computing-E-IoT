@@ -39,4 +39,4 @@ O sistema exibe as leituras no monitor serial e pode ser facilmente adaptado par
 ## Links Úteis
 
 - **Projeto no Wokwi:** [https://wokwi.com/projects/EXEMPLO_LINK](https://wokwi.com/projects/432255316715902977)
-- **Vídeo Demonstrativo:** [https://youtu.be/EXEMPLO_VIDEO](https://youtu.be/EXEMPLO_VIDEO)
+- **Vídeo Demonstrativo:** [https://youtu.be/EXEMPLO_VIDEO](https://www.youtube.com/watch?v=THpc2-3jk6Q&list=PLf_bST13H9Lx9rX8eosl5JDiN7IATsBRn&index=2)
